@@ -11,6 +11,12 @@ Covesto is a Telegram bot for retail traders that provides:
 
 ---
 
+## Working Demo
+
+[Click here to view the demo](https://drive.google.com/file/d/1EWTOMNHzpX_Zhzh_Xqf3lYlnvbBIHCfE/view?usp=sharing)
+
+---
+
 ## 🚀 Features
 
 - Yahoo Finance Integration (`yfinance`)
